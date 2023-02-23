@@ -1,0 +1,23 @@
+{
+    "name": "danz/pmo",
+    "description": "MongoDB ORM that includes support for references,embed and multilevel inheritance.",
+    "version": "1.0.0",
+    "keywords": ["php", "pmo", "orm", "mongodb"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel"
+        }
+    ],
+    "require": {
+        "alcaeus/mongo-php-adapter": "1.0.9"
+    },
+    "require-dev": {
+        "chriskite/phactory": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "Danz\\Pmo\\": "src"
+        }
+    }
+}
