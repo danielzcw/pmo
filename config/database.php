@@ -42,7 +42,6 @@ return array(
     'testing' => array(
         'connection' => array(
             'hostnames' => '127.0.0.1',
-//          'hostnames' => 'localhost,192.168.1.2',
             'database'  => 'test_db'
         )
     ),

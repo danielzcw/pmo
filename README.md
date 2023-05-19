@@ -665,11 +665,13 @@ Executed before deleting a record
 Executed after deleting a record
 
 Special thanks to
+
 -----------------
 
 [mikelbring](https://github.com/mikelbring)
 [Paul Hrimiuc](https://github.com/hpaul/)
 
+well
 
 	
 	
